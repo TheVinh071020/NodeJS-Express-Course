@@ -1,0 +1,13 @@
+{
+  "users": [
+    { "name": "Nam", "address": "Tòa nhà Sông Đà", "phone": "012345678" },
+    { "name": "Hà", "address": "tokyo", "phone": "012345678" },
+    { "name": "Giang", "address": "Hà lội", "phone": "012345678" },
+    {
+      "email": "vinh@gmail.com",
+      "name": "vinh",
+      "age": "23",
+      "address": "Ha Noi"
+    }
+  ]
+}
